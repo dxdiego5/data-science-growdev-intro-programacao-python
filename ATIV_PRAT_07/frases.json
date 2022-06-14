@@ -1,0 +1,27 @@
+[
+    {
+        "reference": "podem ser chamados de: teóricos, que basicamente desenvolvem novos modelos para explicar dados existentes e predizer novos resultados; e. experimentalistas, que testam os modelos fazendo medidas:",
+        "phrase": "cientista",
+        "chances": 10
+    },
+    {
+        "reference": "Site (website) mais acessado no mundo:",
+        "phrase": "google",
+        "chances": 3
+    },
+    {
+        "reference": "Nome referenciado a informações, que são armazenadas em um local, e podem ser utilizadas a qualquer momento:",
+        "phrase": "dados",
+        "chances": 5
+    },
+    {
+        "reference": "Nome da linguagem de programacao mais usada para analise de dados:",
+        "phrase": "python",
+        "chances": 5
+    },
+    {
+        "reference": "Nome do jogar famoso que usa a camisa 7",
+        "phrase": "cristiano ronaldo",
+        "chances": 10
+    }
+]
