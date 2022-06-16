@@ -15,9 +15,9 @@ for indice, person_row in enumerate(data_frame):
 # ------- END FOR -------
 
 print(f"\n{'=':=^70}")
-print(f' \n O {data_frame[position]["nome"]} {data_frame[position]["sobrenome"]} de {data_frame[position]["idade"]} anos \n teve a maior compra no valor total de R$ {conv_monetary.init_app(data_frame[position]["compra"])} reais, em {data_frame[position]["ano"]}. \n')
+print(f' \n O {data_frame[position]["nome"]} {data_frame[position]["sobrenome"]} de {data_frame[position]["idade"]} anos \n teve o mais gasto em compras no valor total de R$ {conv_monetary.init_app(data_frame[position]["compra"])} reais, em {data_frame[position]["ano"]}. \n')
 print(f"{'=':=^70}\n")
 
 # resposta do print abaixo:
 #  O Gabriel Pereira de 67 anos
-#  teve a maior compra no valor total de R$ 9998.0 reais, em 2016.
+#  teve o mais gasto em compras no valor total de R$ 9998.0 reais, em 2016.
