@@ -22,7 +22,7 @@ for index, data in enumerate(data_frame):
 
     if is_exist == True:
         spent_per_year_sum(data['ano'], data['compra'])
-    else:  # entrar aqui quando o ano unca exisitiu na contagem
+    else:  # entrar aqui quando o ano nunca exisitiu na contagem
         d = {
             'year': data['ano'],
             'total_spent': data['compra']
