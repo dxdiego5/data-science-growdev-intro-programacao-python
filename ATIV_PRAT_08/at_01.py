@@ -1,9 +1,9 @@
 # Enunciado:
 # 1) Procure quem foi a pessoa que mais gastou?
-from functions import convert_data_files, conv_monetary
+from functions import conv_data_files, conv_monetary
 
 # chamada da funcao de leitura de arquivo
-data_frame = convert_data_files.init_app()
+data_frame = conv_data_files.init_app()
 
 higher_value = -1  # maior valor de compra
 position = 0
