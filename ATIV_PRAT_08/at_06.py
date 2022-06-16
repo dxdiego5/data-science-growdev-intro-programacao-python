@@ -35,3 +35,10 @@ print(msg_young)
 print(msg_adults)
 print(msg_seniors)
 print(f"\n{'=':=^70}\n")
+
+# resposta do print abaixo:
+# ======================================================================
+# Existem um total de 728 de 5000, pessoas jovens, que representa 14.56%.
+# Existem um total de 3280 de 5000, pessoas adultas, que representa 65.6%.
+# Existem um total de 992 de 5000, pessoas idosas, que representa 19.84%.
+# ======================================================================
