@@ -36,7 +36,7 @@ fig = px.bar(df, x='years', y='spending', color='spending', text_auto=True)
 
 app.layout = html.Div(children=[
     html.H3(children='''
-      Exiba um gráfico que mostre a quantidade total de compras agrupadas por anos.
+      Exiba um gráfico que mostre a quantidade total de gastos por anos.
     '''),
 
     dcc.Graph(
