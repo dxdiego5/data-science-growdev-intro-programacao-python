@@ -15,10 +15,10 @@ for data in data_frame:
 
 print(f"{'=':=^70}")
 print(
-    f"A som dos gastos do ano de 2010 ate 2015 foi de R$ {conv_monetary.init_app(sum_year_spent)}")
+    f"A soma dos gastos dos jovens do ano de 2010 ate 2015 foi de R$ {conv_monetary.init_app(sum_year_spent)}")
 print(f"{'=':=^70}\n")
 
 # resposta do print abaixo:
 # ======================================================================
-# A som dos gastos do ano de 2010 ate 2015 foi de R$ 1.265.539,00
+# A som dos gastos ds jovens do ano de 2010 ate 2015 foi de R$ 1.265.539,00
 # ======================================================================
